@@ -22,7 +22,9 @@
 
     </div>
   </div>
+  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Harum sequi dignissimos cumque. Animi perferendis nam necessitatibus accusamus, maiores quas consequatur quis illo? Non laborum architecto nam tempora, sed qui obcaecati.
 
+git commit
   <?php include_once('includes/footer.php') ?>
 
     
